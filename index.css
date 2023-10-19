@@ -1,6 +1,8 @@
 body{
     text-align: center;
     margin: 0 auto;
+    background-color: #3D3D3D;
+    font-family: 'Tilt Neon', sans-serif;
 }
 
 #heading{
